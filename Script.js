@@ -2,53 +2,53 @@ var questions = [
     {
         question: "Commonly used data types DO NOT include:",
         answers: [
-            "1. Strings",
-            "2. Booleans",
-            "3. Alerts",
-            "4. Numbers"
+            "Strings",
+            "Booleans",
+            "Alerts",
+            "Numbers"
         ],
-        answerIndex:"2. Booleans"
+        answerIndex:"Booleans"
 
     },
     {
         question: "The condition in an if / else statement is enclosed within ____.",
         answers: [
-            "1. Quotes", 
-            "2. Curly brackets", 
-            "3. Parentheses", 
-            "4. Square brackets"
+            "Quotes", 
+            "Curly brackets", 
+            "Parentheses", 
+            "Square brackets"
         ],
-        answerIndex: "3. Parentheses"
+        answerIndex: "Parentheses"
     },
     {
         question: "Arrays in Javascript can be used to store ____.",
         answers: [
-            "1. numbers and strings", 
-            "2. other arrays", 
-            "3. booleans", 
-            "4. all of the above"
+            "Numbers and strings", 
+            "Other arrays", 
+            "Booleans", 
+            "All of the above"
         ],
-        answerIndex: "4. all of the above"
+        answerIndex: "All of the above"
     },
     {
         question: "String values must be enclosed within ____ when being assigned to variables.",
         answers: [
-            "1. commmas", 
-            "2. curly brackets", 
-            "3. quotes", 
-            "4. parentheses"
+            "Commmas", 
+            "Curly brackets", 
+            "Quotes", 
+            "Parentheses"
         ],
-        answerIndex: "3. quotes"
+        answerIndex: "Quotes"
     },
     {
         question: "A very useful tool used during development and debugging for printing content to the debugger is:",
         answers: [
-            "1. Javascript", 
-            "2. terminal/bash", 
-            "3. for loops", 
-            "4. console.log"
+            "Javascript", 
+            "Terminal/bash", 
+            "For loops", 
+            "Console.log"
         ],
-        answerIndex: "4. console.log"
+        answerIndex: "Console.log"
     }
 
 ]
