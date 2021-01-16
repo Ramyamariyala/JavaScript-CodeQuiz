@@ -15,12 +15,12 @@ if (allScores != null){
 
         var createLi = document.createElement("li");
         createLi.textContent = allScores[i].initials +""+allScores[i].scores;
-        highScore.appendChild(CreateLi);
+        highScore.appendChild(createLi);
 
     }
 }
 
 goBack.addEventListener("click",function(){
-    window.location.replace("/.Index.html");
+    window.location.replace("index.html");
 })
 
