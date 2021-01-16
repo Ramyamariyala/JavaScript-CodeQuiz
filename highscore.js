@@ -21,6 +21,6 @@ if (allScores != null){
 }
 
 goBack.addEventListener("click",function(){
-    window.history.back();
+    window.location.replace("/.Index.html");
 })
 
