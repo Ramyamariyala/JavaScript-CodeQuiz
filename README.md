@@ -12,6 +12,7 @@
 * When all questions are answered or the timer reaches 0 then the game is over.
 * When the game is over then the user can save his/her initials and score.
 
+# Screenshots
 
 Please see below the screenshots when the Code is deployed:
 
