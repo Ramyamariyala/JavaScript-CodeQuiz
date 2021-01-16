@@ -69,6 +69,7 @@ var Wrapper = document.querySelector("#wrapper");
 
 startBtnEl.addEventListener("click",startQuiz);
 
+//Timer on the page
 function startQuiz(){
     if(holdInterval === 0){
         holdInterval = setInterval(function(){
@@ -85,12 +86,6 @@ function startQuiz(){
     setQuestion();
    
 };
-
-function compare (){
-    questionIndex++;
-    setQuestion();
-    
-}
 
 // Question on the page
 
