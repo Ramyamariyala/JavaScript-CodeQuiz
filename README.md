@@ -28,3 +28,7 @@ Please see below the screenshots when the Code is deployed:
 ## deployed link and the git hub link
 [live link](https://ramyamariyala.github.io/JavaScript-CodeQuiz/)
 [github repository](https://github.com/Ramyamariyala/JavaScript-CodeQuiz.git)
+
+## Contact Information
+ * Name :Ramya Mariyala
+ * Email: ramya.mariyala@gmail.com
