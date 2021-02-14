@@ -24,3 +24,7 @@ Please see below the screenshots when the Code is deployed:
 ![displayingwronganswer](assests/Capture4.PNG)
 ![GameOver](assests/Capture5.PNG)
 ![highscoreForm](assests/Capture6.PNG)
+
+## deployed link and the git hub link
+[live link](https://ramyamariyala.github.io/JavaScript-CodeQuiz/)
+[github repository](https://github.com/Ramyamariyala/JavaScript-CodeQuiz.git)
