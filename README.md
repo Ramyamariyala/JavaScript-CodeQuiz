@@ -1,9 +1,11 @@
+# Title # JavaScript-CodeQuiz
+
 # Summary
 * HTML and CSS and Javascript documents create a quiz with multiple choice questions with Javascript trivia
 * This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
 * This project utilizes the use of appending HTML pages
 
-# JavaScript-CodeQuiz
+# user Story
 
 * Given is a code quiz
 * When clicked the start button the a timer starts and user is presented with  a question.
